@@ -9,4 +9,4 @@ The player guesses must comply with the following rules:
 * the guess must be the same **length** as the secret word 
 * the guess must contain only **letters**
 ### Win conditon
-If the player manages to guess the secret word before running out of tries, he or she has won the game. Otherwise it's a loss and the player can choose to try again or exit the application.
+If the player manages to guess the secret word before running out of tries, he or she has **won** the game. Otherwise it's a **loss** and the player can choose to **try again** or **exit the application**.
